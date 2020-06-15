@@ -21,10 +21,10 @@ Please find the Scipts as mentioned in the thesis:
      Script to perform single-variant association testing as a proof of principle.
      
 5.1  PGS_long_GSA:
-     Script for the development of a PGS model for longevity, using PRSice-2 and summary statistics of the study cohort.
+     Script for the development of a PGS model for longevity, using summary statistics of the study cohort.
      
 5.2  PGS_long_deelen:
-     Script for the development of a PGS model for longevity, using PRSice-2 and publsihed summary statistics by Deelen et.al   2019.
+     Script for the development of a PGS model for longevity, using publsihed summary statistics by Deelen et.al   2019.
    
   6. PRS_analysis
      Script used for the PRS calculations
