@@ -26,8 +26,8 @@ Please find the Scipts as mentioned in the thesis:
 7.  PGS_long_deelen:
     Script for the development of a longevity-PGS model, using summary statistics by Deelen et.al 2019.
    
-8.  PRS_analysis
-    Script used for the PRS calculations
+8.  PRS_analysis:
+    Script used for the PRS calculations.
      
 All R-scripts were developed by Tim Hasenbein with support of Dr. Guillermo Torres.
 
